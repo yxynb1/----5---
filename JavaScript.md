@@ -438,5 +438,3 @@ console.log(a.major) // "软件工程"
 #### 原型是什么?
 
 #### instanceof
-
-#### in
